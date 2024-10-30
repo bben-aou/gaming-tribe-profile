@@ -26,9 +26,8 @@
       "@interfaces/*": ["src/interfaces/*"],
       "@utils/*": ["src/utils/*"],
       "@global/*": ["src/global/*"],
-      "@store/*": ["src/store/*"]
     },
-    "types": ["node", "react", "react-dom", "jest"]
+    "types": ["node", "react", "react-dom"]
   },
   "include": ["src", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules", "dist"]
